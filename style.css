@@ -1,0 +1,13 @@
+#output {
+  border: 1px solid rgb(241, 227, 99);
+  border-radius: 15pxpx;
+  height: 10rem;
+  width: 80%;
+  background-color: rgb(241, 227, 99);
+  margin: auto;
+  display: block;
+  font-weight: 500;
+}
+div {
+  padding: 10px 0px;
+}
