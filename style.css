@@ -96,7 +96,7 @@ textarea {
   border-radius: 10px;
   background-color: #eeeeee;
   font-family: inherit;
-  font-color: yellow;
+  font-weight: lighter;
 }
 
 #output {
@@ -109,4 +109,8 @@ textarea {
   display: block;
   font-weight: 500;
   font-family: "Kalam", cursive;
+}
+
+mark {
+  background-color: white;
 }
