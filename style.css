@@ -41,7 +41,6 @@ textarea {
 }
 
 footer {
-  position: fixed;
   bottom: 0;
   padding: 0.5rem 0rem 1rem 0rem;
   font-weight: semi-bold;
@@ -64,7 +63,6 @@ footer {
 }
 
 footer {
-  position: fixed;
   bottom: 0;
   width: 100%;
   padding: 1rem;
