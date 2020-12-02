@@ -97,7 +97,7 @@ textarea {
   font-weight: lighter;
 }
 
-.output {
+#output {
   border: 1px solid #eeeeee;
   border-radius: 15pxpx;
   height: 10rem;
