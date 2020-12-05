@@ -3,7 +3,6 @@ var btnTranslate = document.querySelector('#btn-translate');
 var output = document.querySelector('#output');
 
 var url = "https://api.funtranslations.com/translate/minion.json";
-
 function urlBuilder(inputText) {
     return url + "?text=" + inputText;
 }

@@ -5,7 +5,6 @@
   --text-color: #000000;
   --width-break: 600px;
 }
-
 body {
   background-image: url("images/bonn.jpg");
   background-repeat: no-repeat;
@@ -14,8 +13,7 @@ body {
   background-attachment: fixed;
   font-family: "Kalam", cursive;
 }
-
-nav {
+\\added some new features nav {
   text-align: center;
   padding: 1.5rem;
   font-size: x-large;
