@@ -9,11 +9,11 @@ body {
   background-image: url("images/bonn.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: center cemter;
+  background-position: center;
   background-attachment: fixed;
   font-family: "Kalam", cursive;
 }
-\\added some new features nav {
+nav {
   text-align: center;
   padding: 1.5rem;
   font-size: x-large;
